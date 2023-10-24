@@ -30,13 +30,13 @@ Results-driven Principal Software Engineer with over 10 years of experience desi
 `September 2022 - Present`
  __Engineering Lead @ [Relatient](https://www.relatient.net/) • Nashville, TN, USA • Remote__
 
-- **Overview**
+### Overview
   - Led a team to design and develop the new version of an automated campaign management and processing platform for patient engagement, resulting in optimized operational efficiency and application effectiveness.
   - Optimized performance, compilation time, differential testing, and linting, upgraded technology, opened engineering communication to plan and implement better practices and architecture patterns, and developed new mobile-first patient experience web applications.
   - Implemented new broadcast campaign-type support for multi-type recipients, and enhanced team building to improve overall team performance.
   - Mentored and guided fellow software engineers in best practices, industry standards, and engineering processes.
 
-- **Tools**
+### Tools
   EC2, EKS, ECS, ECR, S3, RDS, Aurora, SQS, SNS, API Gateway, CloudFormation, CloudWatch, Angular, Node.js, NestJS, TypeORM, JavaScript, TypeScript, PHP, Perl, SQL, MySQL, PostgreSQL, GitLab, Docker, Docker Compose, Cloud Formation, Git, HIPAA, SOC 2.
 
 - **Projects**
