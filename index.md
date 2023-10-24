@@ -31,26 +31,33 @@ Results-driven Principal Software Engineer with over 10 years of experience desi
  __Engineering Lead @ [Relatient](https://www.relatient.net/) • Nashville, TN, USA • Remote__
 
 ### Overview
-  - Led a team to design and develop the new version of an automated campaign management and processing platform for patient engagement, resulting in optimized operational efficiency and application effectiveness.
-  - Optimized performance, compilation time, differential testing, and linting, upgraded technology, opened engineering communication to plan and implement better practices and architecture patterns, and developed new mobile-first patient experience web applications.
-  - Implemented new broadcast campaign-type support for multi-type recipients, and enhanced team building to improve overall team performance.
-  - Mentored and guided fellow software engineers in best practices, industry standards, and engineering processes.
+
+- Led a team to design and develop the new version of an automated campaign management and processing platform for patient engagement, resulting in optimized operational efficiency and application effectiveness.
+
+- Optimized performance, compilation time, differential testing, and linting, upgraded technology, opened engineering communication to plan and implement better practices and architecture patterns, and developed new mobile-first patient experience web applications.
+
+- Implemented new broadcast campaign-type support for multi-type recipients, and enhanced team building to improve overall team performance.
+
+- Mentored and guided fellow software engineers in best practices, industry standards, and engineering processes.
 
 ### Tools
+
   EC2, EKS, ECS, ECR, S3, RDS, Aurora, SQS, SNS, API Gateway, CloudFormation, CloudWatch, Angular, Node.js, NestJS, TypeORM, JavaScript, TypeScript, PHP, Perl, SQL, MySQL, PostgreSQL, GitLab, Docker, Docker Compose, Cloud Formation, Git, HIPAA, SOC 2.
 
-- **Projects**
-  - [Dash Engage](https://www.relatient.com/solutions/dash-engage/): TCR API campaign registration integration for SMS communications, software stabilization, platform containerization, Aurora MySQL data, query, and server performance tuning.
-  - [Dash Engage 2.0](https://www.relatient.com/solutions/dash-engage/): platform reengineering project for messaging, reminders, multi-channel communications, and patient experience. Patient experience web application development.
+### Projects
+
+- [Dash Engage](https://www.relatient.com/solutions/dash-engage/): TCR API campaign registration integration for SMS communications, software stabilization, platform containerization, Aurora MySQL data, query, and server performance tuning.
+- [Dash Engage 2.0](https://www.relatient.com/solutions/dash-engage/): platform reengineering project for messaging, reminders, multi-channel communications, and patient experience. Patient experience web application development.
 
 `November 2020 - August 2022`
 __Software  Architect @ [Strata](https://www.gostrata.com/) • Philadelphia, PA, USA • Hybrid__
 
-- **Overview**
-  - Designed and developed a new automated campaign management and processing platform, Omneural, implementing multiple concurrent and complex requirements into web-based software applications for internal and client use.
-  - Optimized operational efficiency and application effectiveness in areas like marketing, data mining, business intelligence, production line process integration, and automation.
-  - Built and integrated information systems to meet the company's needs, assessed the system's design currently in place, and worked with technical staff to improve solutions using industry standards and resolve technical issues.
-  - Reviewed project specifications and designed technology solutions that met or exceeded performance expectations while leading by example fellow engineers through training, mentorship, and teaching skills in best practices, industry standards, and engineering processes.
+### Overview
+
+- Designed and developed a new automated campaign management and processing platform, Omneural, implementing multiple concurrent and complex requirements into web-based software applications for internal and client use.
+- Optimized operational efficiency and application effectiveness in areas like marketing, data mining, business intelligence, production line process integration, and automation.
+- Built and integrated information systems to meet the company's needs, assessed the system's design currently in place, and worked with technical staff to improve solutions using industry standards and resolve technical issues.
+- Reviewed project specifications and designed technology solutions that met or exceeded performance expectations while leading by example fellow engineers through training, mentorship, and teaching skills in best practices, industry standards, and engineering processes.
 
 - **Tools**
   EC2, EKS, ECS, ECR, S3, Lambda, Step Functions, RDS, Aurora, DynamoDB, SQS, SNS, SES, API Gateway, Route 53, CloudFront, Elastic Cache, VPC, IAM, CloudFormation, CloudWatch, Svelte, React, Node.js, Express.js, NestJS, .Net Core, Next.js, FastAPI, SKlearn, Boto3, Numpy, Pandas, Starlette, Pydantic, Uvicorn, JavaScript, Python, C#, SQL, PostgreSQL, Saleor CMS, MongoDB, Azure DevOps, Docker, Serverless Framework, SageMaker, Git, HIPAA, SOC 2, PCI, ETL, Stripe, Chilli Publishing.
