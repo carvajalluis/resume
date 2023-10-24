@@ -46,7 +46,6 @@ EC2, EKS, ECS, ECR, S3, RDS, Aurora, SQS, SNS, API Gateway, CloudFormation, Clou
 - [Dash Engage 2.0](https://www.relatient.com/solutions/dash-engage/): platform reengineering project for messaging, reminders, multi-channel communications, and patient experience. Patient experience web application development.
 
 `November 2020 - August 2022`
-
 __Software Engineer Architect @ [Strata Company](https://www.gostrata.com/) • Philadelphia, PA, USA • Hybrid__
 
 #### Overview
