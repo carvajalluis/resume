@@ -5,10 +5,10 @@ title: Luis Carvajal's CV
 # Luis Carvajal
 Software Engineer 
 <div id="webaddress">
-Email: [luisalbcarvajal@gmail.com](mailto:luisalbcarvajal+jobs@gmail.com?subject=Resume%20Inquiry:%20Luis%20Carvajal)
-Phone: [+1 (267) 815 2671](tel:+12678152671)
-LinkedIn: [https://www.linkedin.com/in/luisalbcarvajal/](https://www.linkedin.com/in/luisalbcarvajal/)
-Github: [carvajalluis](https://github.com/carvajalluis)
+<a href="mailto:luisalbcarvajal+jobs@gmail.com?subject=Resume%20Inquiry:%20Luis%20Carvajal">luisalbcarvajal@gmail.com</a>
+<a href="tel:+12678152671">+1 (267) 815 2671</a>
+<a href="https://www.linkedin.com/in/luisalbcarvajal/">LinkedIn</a>
+<a href="https://github.com/carvajalluis">Github</a>
 <!--Dev.to:  https://dev.to/carvajalluis/ -->
 </div>
 ---
@@ -26,7 +26,8 @@ Results-driven Principal Software Engineer with over 10 years of experience desi
 
 ## Work Experience
 
-### Software Engineering Lead @ [Relatient](https://www.relatient.net/) • Nashville, TN, USA • Remote • September `2022 - Present`
+`2022 - Present`
+Software Engineering Lead @ [Relatient](https://www.relatient.net/) • Nashville, TN, USA • Remote • September 
 
 #### Overview
 
