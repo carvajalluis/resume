@@ -93,7 +93,8 @@ EC2, EKS, ECS, ECR, S3, Lambda, Step Functions, RDS, Aurora, DynamoDB, SQS, SNS,
 - [Scrubs & Beyond](https://www.scrubsandbeyond.com): Serverless payment gateway and order gateway APIs architecture design and implementation.
 - [Strata](https://www.gostrata.com/): Mail Voodoo; enhancement and completeness of submodule for graphics generation. SSO implementation with OAuth SAML for reporting pages. Customer relationship building enabling Tiempo to grow the account from 3 to 10 resources in less than 6 months.
 
-### Software Engineer Architect @ [DefinityFirst](https://www.definityfirst.com/) • In Office • San Pedro, NL, MX • `2015-06 - 2019-12`
+`2015-06 - 2019-12`
+Software Engineer Architect @ [DefinityFirst](https://www.definityfirst.com/) • In Office • San Pedro, NL, MX • 
 
 #### Overview:
 
@@ -121,7 +122,8 @@ C#, .Net Core, WinForms, WPF, WCF, Rest API, HTML, CSS, JavaScript, JQuery, Knoc
 - [Primesport](https://www.primesport.com/topevents): Implemented integration with Ticketmaster for reserve, purchase, and retrieve tickets with their Partner API.
 - Continuous internal resources training and customer's technological webinars: "Microservice architecture webinar," "multithread, parallel, and async programming with C#," "source control best practices," "React as a front-end development framework."
 
-### Software Engineer @ PEMEX • In Office • Ciudad del Carmen, CC, MX • `2014-08 - 2015-11`
+`2014-08 - 2015-11`
+Software Engineer @ PEMEX • In Office • Ciudad del Carmen, CC, MX • 
 
 #### Overview:
 
