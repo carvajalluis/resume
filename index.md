@@ -30,9 +30,13 @@ Results-driven Principal Software Engineer with over 10 years of experience desi
 
 Project Management, Project Planning, Scope Management, Cost Management, Stakeholder Management, Organizational Skills, Negotiation, Procurement and Vendor Management, Conflict Resolution, Critical Thinking, Resource Management, Legal and Regulatory Compliance, Project Management Tools, Agile (Scrum, Kanban), Business Acumen.
 
-### Technical Skills
+### Engineering Skills
 
 Software Engineering, Architecture, Cloud Computing, Security, Optimization and Performance Tuning, Programming, Object-Oriented Programming, Data Structures, Algorithms, Design Patterns, Refactoring Patterns, Software Development Life Cycle, Best Practices, Version Control, Debugging and Testing, Problem Solving, Database Management, Web Development, DevOps and CI/CD, Cloud Services, Containerization and Orchestration, Software Architecture, Operating Systems, Mobile Development, Scalability and Performance Optimization, Distributed Systems, Prototyping, Proof of Concept.
+
+### Technical Skills
+
+EC2, EKS, ECS, ECR, S3, Lambda, Step Functions, RDS, Aurora, DynamoDB, SQS, SNS, SES, API Gateway, Route 53, CloudFront, Elastic Cache, VPC, IAM, CloudFormation, CloudWatch, Svelte, React, Node.js, Express.js, NestJS, .Net Core, Next.js, FastAPI, SKlearn, Boto3, Numpy, Pandas, Starlette, Pydantic, Uvicorn, JavaScript, Python, C#, SQL, PostgreSQL, Saleor CMS, MongoDB, Azure DevOps, Docker, Serverless Framework, SageMaker, Git, HIPAA, SOC 2, PCI, ETL, Stripe, Chilli Publishing, Angular, TypeORM, TypeScript, PHP, Perl, MySQL, GitLab, Docker Compose, Git, SAM, SAML, WinForms, WPF, WCF, Rest API, HTML, CSS, JavaScript, JQuery, Knockout.js, Angular 7.0, ReactJS, T-SQL, MS SQL Server, MongoDB, Postgres, HP Vertica, Material UI, Bootstrap, PrimeNG, Prime React, Python, Scrapy, Jenkins, CircleCI, Travis CI, Team Foundation, Ionic, Strapi CMS, GatsbyJS, PyGTK, GTK, Clutter, Glade, Blender, Unity3D, Autodesk Maya.
 
 ### Leadership and Teamwork
 
@@ -40,7 +44,7 @@ Leadership, Mentorship, Team Player, Responsibility, Customer Satisfaction, Comm
 
 ## Work Experience
 
-<br/><br/>
+
 `2022-09 - Present`
 __Software Engineering Lead @ [Relatient](https://www.relatient.net/) • Nashville, TN, USA • Remote__
 
@@ -48,21 +52,18 @@ __Software Engineering Lead @ [Relatient](https://www.relatient.net/) • Nashvi
 Led a team developing the automated campaign management and processing platform for patient engagement. Optimized operational efficiency and application effectiveness. Optimized performance, compilation time, differential testing, and linting. Upgraded technology across the entire platform to mitigate bugs. Implemented best practices and architecture patterns. Developed new mobile-first patient experience web applications. Implemented new broadcast campaign-type support for multi-type recipients. Enhanced team building to improve overall team performance. Mentored and guided fellow software engineers.
 
 ### Tools
-
 EC2, EKS, ECS, ECR, S3, RDS, Aurora, SQS, SNS, API Gateway, CloudFormation, CloudWatch, Angular, Node.js, NestJS, TypeORM, JavaScript, TypeScript, PHP, Perl, SQL, MySQL, PostgreSQL, GitLab, Docker, Docker Compose, Cloud Formation, Git, HIPAA, SOC 2.
 
 ### Projects
-
 [Dash Engage](https://www.relatient.com/solutions/dash-engage/): TCR API campaign registration integration for SMS communications, software stabilization, platform containerization, Aurora MySQL data, query, and server performance tuning.
 
 [Dash Engage 2.0](https://www.relatient.com/solutions/dash-engage/): platform reengineering project for messaging, reminders, multi-channel communications, and patient experience. Patient experience web application development.
 
-<br/><br/>
+
 `2020-11 - 2022-08`
 __Software Engineer Architect @ [Strata Company](https://www.gostrata.com/) • Philadelphia, PA, USA • Hybrid__
 
 ### Overview
-
 Designed and developed a new automated campaign management and processing platform, Omneural, implementing multiple concurrent and complex requirements into web-based software applications for internal and client use.
 
 Optimized operational efficiency and application effectiveness in areas like marketing, data mining, business intelligence, production line process integration, and automation.
@@ -72,18 +73,16 @@ Built and integrated information systems to meet the company's needs, assessed t
 Reviewed project specifications and designed technology solutions that met or exceeded performance expectations while leading by example fellow engineers through training, mentorship, and teaching skills in best practices, industry standards, and engineering processes.
 
 ### Tools
-
-EC2, EKS, ECS, ECR, S3, Lambda, Step Functions, RDS, Aurora, DynamoDB, SQS, SNS, SES, API Gateway, Route 53, CloudFront, Elastic Cache, VPC, IAM, CloudFormation, CloudWatch, Svelte, React, Node.js, Express.js, NestJS, .Net Core, Next.js, FastAPI, SKlearn, Boto3, Numpy, Pandas, Starlette, Pydantic, Uvicorn, JavaScript, Python, C#, SQL, PostgreSQL, Saleor CMS, MongoDB, Azure DevOps, Docker, Serverless Framework, SageMaker, Git, HIPAA, SOC 2, PCI, ETL, Stripe, Chilli Publishing.
+EC2, EKS, ECS, ECR, S3, Lambda, Step Functions, RDS, Aurora, DynamoDB, SQS, SNS, SES, API Gateway, Route 53, CloudFront, Elastic Cache, VPC, IAM, CloudFormation, CloudWatch, Svelte, React, Node.js, Express.js, NestJS, .Net Core, Next.js, FastAPI, SKlearn, Boto3, Numpy, Pandas, Starlette, Pydantic, Uvicorn, JavaScript, Python, C#, SQL, PostgreSQL, Saleor CMS, MongoDB, Azure DevOps, Docker, Serverless Framework, SageMaker, Git, HIPAA, SOC 2, PCI, ETL, SAML, AD, OWASP, Stripe, Chilli Publishing.
 
 ### Projects
-
 AI marketing: AI Campaign audience builder to enhance campaign performance and yield above marketing experts' performance.
 
 [Zahub](https://zahub.com): Engineered restaurant direct mail self-service direct mail campaign management from public access API from Omneural and integrations with Chili publish and Stripe.
 
 Omneural: Engineered a server-less SaaS campaign management system for direct mail; from data acquisition, audience builder, and schedule manager to graphic processing and mail merge automation. Multichannel data integration to single customer view, cross-device Identification, dynamic form builder, embeddable widget, conversion tracking, reporting.
 
-<br/><br/>
+
 `2019-12 - 2020-11`
 __Software Engineer Architect @ [3 Pillar Global](https://www.3pillarglobal.com/) • Remote • Monterrey, NL, MX__
 
@@ -94,7 +93,7 @@ Collaborated on driving through ambitious but realistic deliverable milestones o
 
 ### Tools
 
-EC2, EKS, ECS, ECR, S3, Lambda, Step Functions, RDS, Aurora, DynamoDB, SQS, SNS, SES, API Gateway, Route 53, CloudFront, Elastic Cache, VPC, IAM, CloudFormation, CloudWatch, Svelte, React, Angular, Vue.js, Node.js, Express.js, NestJS, Single Spa, .Net Core, Next.js, JavaScript, C#, SQL, PostgreSQL, MongoDB, Azure DevOps, GitHub, Docker, SAM, SAML, Git.
+EC2, EKS, ECS, ECR, S3, Lambda, Step Functions, RDS, Aurora, DynamoDB, SQS, SNS, SES, API Gateway, Route 53, CloudFront, Elastic Cache, VPC, IAM, CloudFormation, CloudWatch, Svelte, React, Angular, Vue.js, Node.js, Express.js, NestJS, Single Spa, .Net Core, Next.js, JavaScript, C#, SQL, PostgreSQL, MongoDB, Azure DevOps, GitHub, Docker, SAM, SAML, AD, OWASP, Git, GitHub, Jira, Trello, Azure DevOps, Jira.
 
 ### Projects
 
@@ -106,7 +105,7 @@ EC2, EKS, ECS, ECR, S3, Lambda, Step Functions, RDS, Aurora, DynamoDB, SQS, SNS,
 
 [Strata](https://www.gostrata.com/): Mail Voodoo; enhancement and completeness of submodule for graphics generation. SSO implementation with OAuth SAML for reporting pages. Customer relationship building enabling Tiempo to grow the account from 3 to 10 resources in less than 6 months.
 
-<br/><br/>
+
 `2015-06 - 2019-12`
 __Software Engineer Architect @ [DefinityFirst](https://www.definityfirst.com/) • In Office • San Pedro, NL, MX__
 
@@ -123,8 +122,7 @@ Supported enterprise and business goals by introducing new product and service o
 Supported teams in the continuous delivery of quality products and services, enhancing usage and introducing new features. Created long-term development plans to optimize performance within multi-project and multi-team environments. Authored development guidelines to expedite application.
 
 ### Tools
-
-C#,.Net Core, WinForms, WPF, WCF, Rest API, HTML, CSS, JavaScript, JQuery, Knockout.js, Angular 7.0, ReactJS, TypeScript, NodeJS, Express.js, T-SQL, MS SQL Server, MongoDB, Postgres, HP Vertica, Material UI, Bootstrap, PrimeNG, Prime React, Python, Scrapy, EC2, EKS, ECS, ECR, S3, RDS, Aurora, Route 53, CloudFront, VPC, IAM, CloudFormation, CloudWatch, Jenkins, CircleCI, Travis CI, Azure DevOps, Team Foundation, Git, GitHub, Docker, Ionic, Strapi CMS, GatsbyJS.
+C#, .Net Core, WinForms, WPF, WCF, SSRS, Tableu, Power BI, Visual Studio, Visual Studio Code, Jetbrains, HTTP, SSL, HTTPS, FTP, SFTP, SSH, CORS, HTML, CSS, Sass, BEM, UI, UX, JavaScript, JQuery, Knockout.js, Angular, ReactJS, TypeScript, Ionic, React Native,  Electron, Strapi CMS, GatsbyJS, NodeJS, Express.js, PWA, Prettier, Eslint, CodeFactor, Sonarqube, Rest API, GraphQL, T-SQL, MS SQL Server, SQL Server Profiler, Entity Framework, dbup, NHibernate, Dapper, MongoDB, Mongo Atlas, Postgres, Vertica, Material UI, Bootstrap, PrimeNG, Prime React, Python, Scrapy, EC2, EKS, ECS, ECR, S3, RDS, Aurora, Route 53, CloudFront, VPC, IAM, CloudFormation, CloudWatch, Cloudflare, Vercel, Jenkins, CircleCI, Travis CI, Team City, Docker, Kubernetes, Git, GitHub, Jira, Trello, Azure DevOps, Team Foundation, SAML, AD, JWT, OAuth, SSO, DNS, NuGet, npm, pip, Windows Server, Linux Server, MS IIS, Nginx, Redis, RabbitMQ, CloudAMQP, MassTransit, 
 
 ### Projects
 
@@ -151,7 +149,8 @@ C#,.Net Core, WinForms, WPF, WCF, Rest API, HTML, CSS, JavaScript, JQuery, Knock
 [Primesport](https://www.primesport.com/topevents): Implemented integration with Ticketmaster for reserve, purchase, and retrieve tickets with their Partner API.
 
 Continuous internal resources training and customer's technological webinars: "Microservice architecture webinar," "multithread, parallel, and async programming with C#," "source control best practices," "React as a front-end development framework."
-<br/><br/>
+
+
 `2014-08 - 2015-11`
 __Software Engineer @ PEMEX • In Office • Ciudad del Carmen, CC, MX__
 
@@ -161,27 +160,26 @@ Single-handedly created a weekly overtime management system for union workers un
 
 ### Tools
 
-C#, .Net Framework, HTML, CSS, JavaScript, JQuery, T-SQL, MS SQL Server, Bootstrap.
+C#, .Net Framework, NuGet, Visual Studio, HTML, CSS, JavaScript, JQuery, T-SQL, MS SQL Server, Bootstrap, Trello.
 
 ### Project
 
 Overtime: Weekly overtime management system to simplify manual processes required by contractual agreements with union workers. Requirement gathering, project planning, use case documentation, UI/UX design, database design, all modules development, deployment, production implementation.
-<br/><br/>
+
+
 `March 2014 - August 2014`
 __Programmer Analyst @ UNACAR • In Office • Ciudad del Carmen, CC, MX__
 
-### Overview:
-
+### Overview
 Designed and implemented POC of 3D simulations for the Faculty of Information Sciences with playful learning applications, and created a new front-page website for the faculty.
 
 ### Tools
-
 Blender, Unity3D, Autodesk Maya, HTML, CSS, Python, JavaScript, JQuery, MySQL, Bootstrap.
 
 ### Project
-
 virtual experience: exploring the capabilities of technology to facilitate virtual environments for new student candidates to get to know the faculty from afar.
-<br/><br/>
+
+
 `2011-04 - 2011-11`
 __Programmer Analyst @ PEMEX • In Office • Ciudad del Carmen, CC, MX__
 
@@ -194,6 +192,10 @@ Directed software design and development to meet client needs for functionality 
 Python, PyGTK, GTK, Clutter, Glade.
 
 ### Project
+
+ROR: remaining oil static analysis in end-of-life wells for the Cantarell asset. Using Subject Matter Expertsknowledge in the  oil industry to automate data procesing and analysis. 
+
+## Education
 
 `2011 - 2015`
 __Universidad Autonoma Del Carmen. Computer Systems Engineering__
