@@ -33,6 +33,7 @@ Leadership, Mentorship, Team Player, Responsibility, Customer Satisfaction, Comm
 
 ## Work Experience
 
+<br/><br/>
 `2022-09 - Present`
 __Software Engineering Lead @ [Relatient](https://www.relatient.net/) • Nashville, TN, USA • Remote__
 
@@ -48,6 +49,7 @@ EC2, EKS, ECS, ECR, S3, RDS, Aurora, SQS, SNS, API Gateway, CloudFormation, Clou
 [Dash Engage](https://www.relatient.com/solutions/dash-engage/): TCR API campaign registration integration for SMS communications, software stabilization, platform containerization, Aurora MySQL data, query, and server performance tuning.
 [Dash Engage 2.0](https://www.relatient.com/solutions/dash-engage/): platform reengineering project for messaging, reminders, multi-channel communications, and patient experience. Patient experience web application development.
 
+<br/><br/>
 `2020-11 - 2022-08`
 __Software Engineer Architect @ [Strata Company](https://www.gostrata.com/) • Philadelphia, PA, USA • Hybrid__
 
@@ -73,6 +75,7 @@ AI marketing: AI Campaign audience builder to enhance campaign performance and y
 
 Omneural: Engineered a server-less SaaS campaign management system for direct mail; from data acquisition, audience builder, and schedule manager to graphic processing and mail merge automation. Multichannel data integration to single customer view, cross-device Identification, dynamic form builder, embeddable widget, conversion tracking, reporting.
 
+<br/><br/>
 `2019-12 - 2020-11`
 __Software Engineer Architect @ [3 Pillar Global](https://www.3pillarglobal.com/) • Remote • Monterrey, NL, MX__
 
@@ -95,6 +98,7 @@ EC2, EKS, ECS, ECR, S3, Lambda, Step Functions, RDS, Aurora, DynamoDB, SQS, SNS,
 
 [Strata](https://www.gostrata.com/): Mail Voodoo; enhancement and completeness of submodule for graphics generation. SSO implementation with OAuth SAML for reporting pages. Customer relationship building enabling Tiempo to grow the account from 3 to 10 resources in less than 6 months.
 
+<br/><br/>
 `2015-06 - 2019-12`
 __Software Engineer Architect @ [DefinityFirst](https://www.definityfirst.com/) • In Office • San Pedro, NL, MX__
 
@@ -139,7 +143,7 @@ C#,.Net Core, WinForms, WPF, WCF, Rest API, HTML, CSS, JavaScript, JQuery, Knock
 [Primesport](https://www.primesport.com/topevents): Implemented integration with Ticketmaster for reserve, purchase, and retrieve tickets with their Partner API.
 
 Continuous internal resources training and customer's technological webinars: "Microservice architecture webinar," "multithread, parallel, and async programming with C#," "source control best practices," "React as a front-end development framework."
-
+<br/><br/>
 `2014-08 - 2015-11`
 __Software Engineer @ PEMEX • In Office • Ciudad del Carmen, CC, MX__
 
@@ -154,7 +158,7 @@ C#, .Net Framework, HTML, CSS, JavaScript, JQuery, T-SQL, MS SQL Server, Bootstr
 ### Project
 
 Overtime: Weekly overtime management system to simplify manual processes required by contractual agreements with union workers. Requirement gathering, project planning, use case documentation, UI/UX design, database design, all modules development, deployment, production implementation.
-
+<br/><br/>
 `March 2014 - August 2014`
 __Programmer Analyst @ UNACAR • In Office • Ciudad del Carmen, CC, MX__
 
@@ -169,7 +173,7 @@ Blender, Unity3D, Autodesk Maya, HTML, CSS, Python, JavaScript, JQuery, MySQL, B
 ### Project
 
 virtual experience: exploring the capabilities of technology to facilitate virtual environments for new student candidates to get to know the faculty from afar.
-
+<br/><br/>
 `2011-04 - 2011-11`
 __Programmer Analyst @ PEMEX • In Office • Ciudad del Carmen, CC, MX__
 
