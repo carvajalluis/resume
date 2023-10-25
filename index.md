@@ -36,14 +36,19 @@ Software Engineering Lead @ [Relatient](https://www.relatient.net/) • Nashvill
 
 ### Overview
 
-- Led a team to design and develop the new version of an automated campaign management and processing platform for patient engagement, resulting in optimized operational efficiency and application effectiveness.
-- Optimized performance, compilation time, differential testing, and linting, upgraded technology, opened engineering communication to plan and implement better practices and architecture patterns, and developed new mobile-first patient experience web applications.
-- Implemented new broadcast campaign-type support for multi-type recipients, and enhanced team building to improve overall team performance.
-- Mentored and guided fellow software engineers in best practices, industry standards, and engineering processes.
+- Led a team developing the automated campaign management and processing platform for patient engagement.
+- optimized operational efficiency and application effectiveness.
+- Optimized performance, compilation time, differential testing, and linting.
+- Upgraded technology across the entire platform to mitigate bugs.
+- Opened engineering communication to plan and implement better practices and architecture patterns.
+- Developed new mobile-first patient experience web applications.
+- Implemented new broadcast campaign-type support for multi-type recipients.
+- enhanced team building to improve overall team performance.
+- Mentored and guided fellow software engineers.
 
 ### Tools
 
-EC2, EKS, ECS, ECR, S3, RDS, Aurora, SQS, SNS, API Gateway, CloudFormation, CloudWatch, Angular, Node.js, NestJS, TypeORM, JavaScript, TypeScript, PHP, Perl, SQL, MySQL, PostgreSQL, GitLab, Docker, Docker Compose, Cloud Formation, Git, HIPAA, SOC 2.
+- EC2, EKS, ECS, ECR, S3, RDS, Aurora, SQS, SNS, API Gateway, CloudFormation, CloudWatch, Angular, Node.js, NestJS, TypeORM, JavaScript, TypeScript, PHP, Perl, SQL, MySQL, PostgreSQL, GitLab, Docker, Docker Compose, Cloud Formation, Git, HIPAA, SOC 2.
 
 ### Projects
 
@@ -151,12 +156,12 @@ virtual experience: exploring the capabilities of technology to facilitate virtu
 Python, PyGTK, GTK, Clutter, Glade.
 #### Project
 
-ROR: remaining oil static analysis in end-of-life wells for the Cantarell asset.
+`2011 - 2015`
+__Universidad Autonoma Del Carmen. Computer Systems Engineering__
 
-## Education
+`2004 - 2009`
+__Universidad Simon Bolivar. Mechanical Engineering__
 
-- Universidad Autonoma Del Carmen. Computer Systems Engineering, `2011 - 2015`
-- Universidad Simon Bolivar. Mechanical Engineering, `2004 - 2009`
 ## Languages
 
 - English — Fluent
