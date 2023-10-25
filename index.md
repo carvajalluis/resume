@@ -6,10 +6,17 @@ title: Luis Carvajal's CV
 Software Engineer 
 <div id="webaddress">
 <a href="mailto:luisalbcarvajal+jobs@gmail.com?subject=Resume%20Inquiry:%20Luis%20Carvajal">luisalbcarvajal@gmail.com</a>
-<a href="tel:+12678152671">+1 (267) 815 2671</a>
+<br>
+<a href="tel:+12678152671">+1-(267)815-2671</a>
+<br>
 <a href="https://www.linkedin.com/in/luisalbcarvajal/">LinkedIn</a>
+<br>
 <a href="https://github.com/carvajalluis">Github</a>
-<!--Dev.to:  https://dev.to/carvajalluis/ -->
+
+<!-- 
+Dev.to:  https://dev.to/carvajalluis/
+<br>
+ -->
 </div>
 ---
 
