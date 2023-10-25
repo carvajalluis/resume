@@ -132,7 +132,7 @@ C#, .Net Core, WinForms, WPF, WCF, SSRS, Tableu, Power BI, Visual Studio, Visual
 
 [PDI](https://politicaldata.com): Online Campaign Tool; implementation of multiple new modules and innovation. Penetration testing and security enhancements, performance tuning, audience builder tool, ETL processes to synchronize customer's and internal data storages.
 
-[Symplr](https://www.symplr.com): Cactus 5 (HMS) designed and implemented a multi-tier stabilization plan of a new angular application to enable release of the product to replace Silverlight old version.
+[Symplr](https://www.symplr.com): Cactus 5 (HMS) designed and implemented a multi-tier stabilization plan of a new Angular application to enable release of the product to replace Silverlight old version.
 
 [Blitz](https://www.blitzrocks.com): Commission management system; implementation of custom generic Angular Material table component to satisfy specific requirements in Blitz 2.0.
 
