@@ -18,36 +18,41 @@ Software Engineer
 Results-driven Principal Software Engineer with over 10 years of experience designing, developing, and maintaining complex software systems. Proven track record of leading technical projects and teams to success, with expertise in agile methodologies and modern technologies. A strong communicator and collaborator, with the ability to bridge the gap between technical and non-technical stakeholders. Skilled in mentoring and guiding other software engineers, and dedicated to staying up to date with the latest industry trends and technologies. Detail-oriented, organized, and meticulous employee. Works at a fast pace to meet tight deadlines. Enthusiastic team player ready to contribute to company success.
 
 ## Skills
-**Technical Skills:** Software Engineering, Architecture, Cloud Computing, Security, Optimization and Performance Tuning, Programming, Object-Oriented Programming, Data Structures, Algorithms, Design Patterns, Refactoring Patterns, Software Development Life Cycle, Best Practices, Version Control, Debugging and Testing, Problem Solving, Database Management, Web Development, DevOps and CI/CD, Cloud Services, Containerization and Orchestration, Software Architecture, Operating Systems, Mobile Development, Scalability and Performance Optimization, Distributed Systems, Prototyping, Proof of Concept.
 
-**Leadership and Teamwork:** Leadership, Mentorship, Team Player, Responsibility, Customer Satisfaction, Communication, Teamwork, Time Management, Adaptability, Continuous Learning, Documentation, Code Review, Risk Management, Mentoring and Training, Client and Stakeholder Interaction, Decision-Making, Quality Assurance and Testing, Reporting and Documentation, Customer Focus, Emotional Intelligence, Ethical Considerations.
+### Project Management
 
-**Project Management:** Project Management, Project Planning, Scope Management, Cost Management, Stakeholder Management, Organizational Skills, Negotiation, Procurement and Vendor Management, Conflict Resolution, Critical Thinking, Resource Management, Legal and Regulatory Compliance, Project Management Tools, Agile (Scrum, Kanban), Business Acumen.
+Project Management, Project Planning, Scope Management, Cost Management, Stakeholder Management, Organizational Skills, Negotiation, Procurement and Vendor Management, Conflict Resolution, Critical Thinking, Resource Management, Legal and Regulatory Compliance, Project Management Tools, Agile (Scrum, Kanban), Business Acumen.
+
+### Technical Skills
+
+Software Engineering, Architecture, Cloud Computing, Security, Optimization and Performance Tuning, Programming, Object-Oriented Programming, Data Structures, Algorithms, Design Patterns, Refactoring Patterns, Software Development Life Cycle, Best Practices, Version Control, Debugging and Testing, Problem Solving, Database Management, Web Development, DevOps and CI/CD, Cloud Services, Containerization and Orchestration, Software Architecture, Operating Systems, Mobile Development, Scalability and Performance Optimization, Distributed Systems, Prototyping, Proof of Concept.
+
+### Leadership and Teamwork Leadership, Mentorship, Team Player, Responsibility, Customer Satisfaction, Communication, Teamwork, Time Management, Adaptability, Continuous Learning, Documentation, Code Review, Risk Management, Mentoring and Training, Client and Stakeholder Interaction, Decision-Making, Quality Assurance and Testing, Reporting and Documentation, Customer Focus, Emotional Intelligence, Ethical Considerations.
 
 ## Work Experience
 
-`2022 - Present`
-Software Engineering Lead @ [Relatient](https://www.relatient.net/) • Nashville, TN, USA • Remote • September 
+`2022-09 - Present`
+Software Engineering Lead @ [Relatient](https://www.relatient.net/) • Nashville, TN, USA • Remote •  
 
-#### Overview
+### Overview
 
 - Led a team to design and develop the new version of an automated campaign management and processing platform for patient engagement, resulting in optimized operational efficiency and application effectiveness.
 - Optimized performance, compilation time, differential testing, and linting, upgraded technology, opened engineering communication to plan and implement better practices and architecture patterns, and developed new mobile-first patient experience web applications.
 - Implemented new broadcast campaign-type support for multi-type recipients, and enhanced team building to improve overall team performance.
 - Mentored and guided fellow software engineers in best practices, industry standards, and engineering processes.
 
-#### Tools
+### Tools
 
 EC2, EKS, ECS, ECR, S3, RDS, Aurora, SQS, SNS, API Gateway, CloudFormation, CloudWatch, Angular, Node.js, NestJS, TypeORM, JavaScript, TypeScript, PHP, Perl, SQL, MySQL, PostgreSQL, GitLab, Docker, Docker Compose, Cloud Formation, Git, HIPAA, SOC 2.
 
-#### Projects
+### Projects
 
 - [Dash Engage](https://www.relatient.com/solutions/dash-engage/): TCR API campaign registration integration for SMS communications, software stabilization, platform containerization, Aurora MySQL data, query, and server performance tuning.
 - [Dash Engage 2.0](https://www.relatient.com/solutions/dash-engage/): platform reengineering project for messaging, reminders, multi-channel communications, and patient experience. Patient experience web application development.
 
-### Software Engineer Architect @ [Strata Company](https://www.gostrata.com/) • Philadelphia, PA, USA • Hybrid • `November 2020 - August 2022`
+### Software Engineer Architect @ [Strata Company](https://www.gostrata.com/) • Philadelphia, PA, USA • Hybrid • `2020-11 - 2022-08`
 
-#### Overview
+### Overview
 
 - Designed and developed a new automated campaign management and processing platform, Omneural, implementing multiple concurrent and complex requirements into web-based software applications for internal and client use.
 - Optimized operational efficiency and application effectiveness in areas like marketing, data mining, business intelligence, production line process integration, and automation.
@@ -64,7 +69,7 @@ EC2, EKS, ECS, ECR, S3, Lambda, Step Functions, RDS, Aurora, DynamoDB, SQS, SNS,
 - [Zahub](https://zahub.com): Engineered restaurant direct mail self-service direct mail campaign management from public access API from Omneural and integrations with Chili publish and Stripe.
 - Omneural: Engineered a server-less SaaS campaign management system for direct mail; from data acquisition, audience builder, and schedule manager to graphic processing and mail merge automation. Multichannel data integration to single customer view, cross-device Identification, dynamic form builder, embeddable widget, conversion tracking, reporting.
 
-### Software Engineer Architect @ [3 Pillar Global](https://www.3pillarglobal.com/) • Remote • Monterrey, NL, MX • `December 2019 - November 2020`
+### Software Engineer Architect @ [3 Pillar Global](https://www.3pillarglobal.com/) • Remote • Monterrey, NL, MX • `2019-12 - 2020-11`
 
 - Engaged in multiple customer projects, planning and delivering them within budget, sizing efforts, and development processes, and followed projects from within as part of the development team to ensure success and leverage knowledge in the field to guide them.
 - Elaborated on multiple project specifications and designed technology solutions that met or exceeded performance expectations, executed team building and project management, as well as hands-on software development within sprint commitments.
@@ -81,7 +86,7 @@ EC2, EKS, ECS, ECR, S3, Lambda, Step Functions, RDS, Aurora, DynamoDB, SQS, SNS,
 - [Scrubs & Beyond](https://www.scrubsandbeyond.com): Serverless payment gateway and order gateway APIs architecture design and implementation.
 - [Strata](https://www.gostrata.com/): Mail Voodoo; enhancement and completeness of submodule for graphics generation. SSO implementation with OAuth SAML for reporting pages. Customer relationship building enabling Tiempo to grow the account from 3 to 10 resources in less than 6 months.
 
-### Software Engineer Architect @ [DefinityFirst](https://www.definityfirst.com/) • In Office • San Pedro, NL, MX • `June 2015 - December 2019`
+### Software Engineer Architect @ [DefinityFirst](https://www.definityfirst.com/) • In Office • San Pedro, NL, MX • `2015-06 - 2019-12`
 
 #### Overview:
 
@@ -109,7 +114,7 @@ C#, .Net Core, WinForms, WPF, WCF, Rest API, HTML, CSS, JavaScript, JQuery, Knoc
 - [Primesport](https://www.primesport.com/topevents): Implemented integration with Ticketmaster for reserve, purchase, and retrieve tickets with their Partner API.
 - Continuous internal resources training and customer's technological webinars: "Microservice architecture webinar," "multithread, parallel, and async programming with C#," "source control best practices," "React as a front-end development framework."
 
-### Software Engineer @ PEMEX • In Office • Ciudad del Carmen, CC, MX • `August 2014 - February 2015`
+### Software Engineer @ PEMEX • In Office • Ciudad del Carmen, CC, MX • `2014-08 - 2015-11`
 
 #### Overview:
 
@@ -137,7 +142,7 @@ Blender, Unity3D, Autodesk Maya, HTML, CSS, Python, JavaScript, JQuery, MySQL, B
 
 virtual experience: exploring the capabilities of technology to facilitate virtual environments for new student candidates to get to know the faculty from afar.
 
-### Programmer Analyst @ PEMEX • In Office • Ciudad del Carmen, CC, MX • `April 2011 - November 2011`
+### Programmer Analyst @ PEMEX • In Office • Ciudad del Carmen, CC, MX •  `2011-04 - 2011-11`
 
 - Was part of a Research and Development team as the software developer, creating a desktop application to automate well records analysis, generating graphical information representation.
 - Directed software design and development to meet client needs for functionality and performance and provided technical support using knowledge of complex technology to solve problems.
