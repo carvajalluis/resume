@@ -88,6 +88,7 @@ AI marketing: AI Campaign audience builder to enhance campaign performance and y
 `2019/12 - 2020/11`
 __Software Engineer Architect @ [3 Pillar Global](https://www.3pillarglobal.com/) • Remote • Monterrey, NL, MX__
 
+### Overview
 Engaged in multiple customer projects, planning and delivering them within budget, sizing efforts, and development processes, and followed projects from within as part of the development team to ensure success and leverage knowledge in the field to guide them.
 
 Elaborated on multiple project specifications and designed technology solutions that met or exceeded performance expectations, executed team building and project management, as well as hands-on software development within sprint commitments.
@@ -112,7 +113,7 @@ EC2, EKS, ECS, ECR, S3, Lambda, Step Functions, RDS, Aurora, DynamoDB, SQS, SNS,
 `2015/06 - 2019/12`
 __Software Engineer Architect @ [DefinityFirst](https://www.definityfirst.com/) • In Office • San Pedro, NL, MX__
 
-### Overview:
+### Overview
 
 Became the right hand of the CEO and COO of a 250+ employee company, helping them achieve impressive positive results with 15+ customer engagements, increasing firm revenue and outlook from an engineering position.
 
@@ -158,7 +159,7 @@ Continuous internal resources training and customer's technological webinars: "M
 `2014/08 - 2015/11`
 __Software Engineer @ PEMEX • In Office • Ciudad del Carmen, CC, MX__
 
-### Overview:
+### Overview
 
 Single-handedly created a weekly overtime management system for union workers under the Operational Sub-directorate of Information Technologies and Marina Zone Communications, from requirements gathering, UX, UI, system architecture, database design, and system development, to application testing, release production, and documentation.
 
@@ -214,6 +215,7 @@ __Universidad Simon Bolivar. Mechanical Engineering__
 - English — Fluent
 - Spanish — Native
 
-### Last updated: October 2023
+### Last updated
+`2023/10`
 
 
