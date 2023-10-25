@@ -54,6 +54,7 @@ EC2, EKS, ECS, ECR, S3, RDS, Aurora, SQS, SNS, API Gateway, CloudFormation, Clou
 ### Projects
 
 [Dash Engage](https://www.relatient.com/solutions/dash-engage/): TCR API campaign registration integration for SMS communications, software stabilization, platform containerization, Aurora MySQL data, query, and server performance tuning.
+
 [Dash Engage 2.0](https://www.relatient.com/solutions/dash-engage/): platform reengineering project for messaging, reminders, multi-channel communications, and patient experience. Patient experience web application development.
 
 <br/><br/>
