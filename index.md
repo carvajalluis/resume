@@ -27,7 +27,9 @@ Project Management, Project Planning, Scope Management, Cost Management, Stakeho
 
 Software Engineering, Architecture, Cloud Computing, Security, Optimization and Performance Tuning, Programming, Object-Oriented Programming, Data Structures, Algorithms, Design Patterns, Refactoring Patterns, Software Development Life Cycle, Best Practices, Version Control, Debugging and Testing, Problem Solving, Database Management, Web Development, DevOps and CI/CD, Cloud Services, Containerization and Orchestration, Software Architecture, Operating Systems, Mobile Development, Scalability and Performance Optimization, Distributed Systems, Prototyping, Proof of Concept.
 
-### Leadership and Teamwork Leadership, Mentorship, Team Player, Responsibility, Customer Satisfaction, Communication, Teamwork, Time Management, Adaptability, Continuous Learning, Documentation, Code Review, Risk Management, Mentoring and Training, Client and Stakeholder Interaction, Decision-Making, Quality Assurance and Testing, Reporting and Documentation, Customer Focus, Emotional Intelligence, Ethical Considerations.
+### Leadership and Teamwork
+
+Leadership, Mentorship, Team Player, Responsibility, Customer Satisfaction, Communication, Teamwork, Time Management, Adaptability, Continuous Learning, Documentation, Code Review, Risk Management, Mentoring and Training, Client and Stakeholder Interaction, Decision-Making, Quality Assurance and Testing, Reporting and Documentation, Customer Focus, Emotional Intelligence, Ethical Considerations.
 
 ## Work Experience
 
