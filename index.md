@@ -42,7 +42,7 @@ Experienced **Software Architect** with a proven track record in designing and d
 
 #### **Software Engineer Architect** | **3 Pillar Global** | **Monterrey, Mx** | Dec 2019 – Nov 2020  
 - Built multi-tenant dashboards for ActivTrak, streamlining analytics delivery.
-- Developed new dashboard and investment management client application, managing project scope, objectives, and risk mitigation fro Annexus.
+- Developed new dashboard and investment management client application, managing project scope, objectives, and risk mitigation for Annexus.
 - Architected serverless payment gateway APIs for Scrubs & Beyond, ensuring compliance and scalability.
 
 #### **Software Engineer Architect** | **DefinityFirst** | **San Pedro, NL, MX** | Jun 2015 – Dec 2019  
