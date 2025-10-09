@@ -1,0 +1,8 @@
+{
+    "github.copilot.editor.enableCodeActions": false,
+    "github.copilot.chat.byok.ollamaEndpoint": "",
+    "github.copilot.chat.codesearch.enabled": true,
+    "github.copilot.chat.agent.thinkingTool": true,
+    "github.copilot.chat.alternateGptPrompt.enabled": true,
+    "github.copilot.chat.responsesApiReasoningEffort": "medium"
+}
