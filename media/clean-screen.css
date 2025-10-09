@@ -9,82 +9,74 @@
 }
 
 body {
-    font-family: 'Georgia', 'Times New Roman', serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
     font-size: 16px;
     line-height: 1.6;
     color: #333;
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
-    padding: 2rem;
+    padding: 40px;
     background: #fff;
+    min-height: 100vh;
 }
 
 /* Typography */
 h1 {
-    font-size: 2.5rem;
-    font-weight: bold;
-    color: #2c3e50;
-    margin-bottom: 0.5rem;
-    text-align: center;
-    border-bottom: 3px solid #3498db;
-    padding-bottom: 0.5rem;
+    font-size: 2rem;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 1rem;
+    text-align: left;
+    border-bottom: none;
+    padding-bottom: 0;
 }
 
 h2 {
     font-size: 1.5rem;
-    font-weight: bold;
-    color: #2c3e50;
+    font-weight: 600;
+    color: #333;
     margin: 2rem 0 1rem 0;
-    border-bottom: 2px solid #ecf0f1;
-    padding-bottom: 0.25rem;
+    border-bottom: none;
+    padding-bottom: 0;
 }
 
 h3 {
-    font-size: 1.2rem;
-    font-weight: bold;
-    color: #34495e;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #333;
     margin: 1.5rem 0 0.5rem 0;
 }
 
 h4 {
     font-size: 1.1rem;
-    font-weight: bold;
-    color: #34495e;
+    font-weight: 600;
+    color: #333;
     margin: 1rem 0 0.5rem 0;
 }
 
 /* Paragraphs and text */
 p {
     margin-bottom: 1rem;
-    text-align: justify;
+    text-align: left;
 }
 
 /* Links */
 a {
-    color: #3498db;
+    color: #0066cc;
     text-decoration: none;
-    transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #2980b9;
+    color: #0066cc;
     text-decoration: underline;
 }
 
-/* Contact information - center align the contact line */
-p:has(a[href^="mailto:"]) {
-    text-align: center;
-    font-size: 1.1rem;
-    margin-bottom: 2rem;
-    color: #555;
-}
-
-/* Fallback for browsers that don't support :has() */
+/* Contact information - stack vertically */
 h1 + p {
-    text-align: center;
-    font-size: 1.1rem;
+    font-size: 1rem;
     margin-bottom: 2rem;
-    color: #555;
+    color: #666;
+    line-height: 1.8;
 }
 
 /* Lists */
@@ -105,8 +97,8 @@ ul ul, ol ol, ul ol, ol ul {
 
 /* Strong and emphasis */
 strong {
-    font-weight: bold;
-    color: #2c3e50;
+    font-weight: 600;
+    color: #333;
 }
 
 em {
@@ -115,20 +107,20 @@ em {
 
 /* Code (for any inline code or formatting) */
 code {
-    background-color: #f8f9fa;
-    padding: 0.2rem 0.4rem;
+    background-color: #f6f8fa;
+    padding: 0.2em 0.4em;
     border-radius: 3px;
-    font-family: 'Monaco', 'Menlo', 'Consolas', monospace;
-    font-size: 0.9rem;
-    color: #e74c3c;
+    font-family: 'SFMono-Regular', 'Monaco', 'Menlo', 'Consolas', monospace;
+    font-size: 0.85em;
+    color: #333;
 }
 
 /* Block quotes */
 blockquote {
-    border-left: 4px solid #3498db;
+    border-left: 4px solid #dfe2e5;
     padding-left: 1rem;
     margin: 1rem 0;
-    color: #555;
+    color: #6a737d;
     font-style: italic;
 }
 
@@ -136,7 +128,7 @@ blockquote {
 hr {
     border: none;
     height: 2px;
-    background: linear-gradient(to right, #3498db, #ecf0f1, #3498db);
+    background: #e1e4e8;
     margin: 2rem 0;
 }
 
@@ -163,55 +155,55 @@ table {
 th, td {
     padding: 0.75rem;
     text-align: left;
-    border-bottom: 1px solid #ecf0f1;
+    border-bottom: 1px solid #e1e4e8;
 }
 
 th {
-    background-color: #f8f9fa;
-    font-weight: bold;
-    color: #2c3e50;
+    background-color: #f6f8fa;
+    font-weight: 600;
+    color: #333;
 }
 
 /* Responsive design */
+@media screen and (max-width: 1100px) {
+    body {
+        max-width: 95%;
+        padding: 30px;
+    }
+}
+
 @media screen and (max-width: 768px) {
     body {
-        padding: 1rem;
-        font-size: 14px;
+        max-width: none;
+        padding: 20px;
+        margin: 0;
     }
     
     h1 {
-        font-size: 2rem;
+        font-size: 1.75rem;
     }
     
     h2 {
-        font-size: 1.3rem;
+        font-size: 1.25rem;
     }
     
     h3 {
         font-size: 1.1rem;
     }
-    
-    ul, ol {
-        padding-left: 1.5rem;
-    }
 }
 
 @media screen and (max-width: 480px) {
     body {
-        padding: 0.5rem;
-        font-size: 13px;
+        padding: 15px;
+        font-size: 14px;
     }
     
     h1 {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
     }
     
     h2 {
-        font-size: 1.2rem;
-    }
-    
-    ul, ol {
-        padding-left: 1rem;
+        font-size: 1.1rem;
     }
 }
 
@@ -260,6 +252,6 @@ html {
 
 /* Focus styles for accessibility */
 a:focus, button:focus {
-    outline: 2px solid #3498db;
+    outline: 2px solid #0066cc;
     outline-offset: 2px;
 }

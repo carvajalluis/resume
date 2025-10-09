@@ -3,9 +3,12 @@ layout: cv
 title: Luis Carvajal's CV
 ---
 
-# **Luis Carvajal**
+# Luis Carvajal
 
-[luisalbcarvajal@gmail.com](mailto:luisalbcarvajal+jobs@gmail.com?subject=Resume%20Inquiry:%20Luis%20Carvajal) | [Tel: +1-(786)360-9304](tel:+17863609304) | [LinkedIn](https://www.linkedin.com/in/luisalbcarvajal/) | [GitHub](https://github.com/carvajalluis)
+[luisalbcarvajal@gmail.com](mailto:luisalbcarvajal+jobs@gmail.com?subject=Resume%20Inquiry:%20Luis%20Carvajal)  
+[Tel: +1-(786)360-9304](tel:+17863609304)  
+[LinkedIn](https://www.linkedin.com/in/luisalbcarvajal/)  
+[GitHub](https://github.com/carvajalluis)
 
 ---
 
