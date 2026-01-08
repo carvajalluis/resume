@@ -14,7 +14,7 @@ title: Luis Carvajal's CV
 
 ## **PROFESSIONAL SUMMARY**
 
-Experienced **Principal Software Engineer** with a proven track record in designing and delivering scalable, high-performance systems. Specializes in **microservices**, **cloud computing**, **event-driven architectures**, and **DevOps**. Skilled at leading cross-functional teams, mentoring engineers, and driving technical innovations that achieve measurable business outcomes. Proficient in working across diverse industries, including healthcare, telecommunications, and fintech.
+Dynamic Principal Software Engineer with over 12 years of experience in developing and optimizing platforms using AWS and microservices architecture. Proven success in enhancing system performance by 50% and streamlining operations with AI-driven solutions. Led critical data migration initiatives, architected AI-powered analytics platforms, and drove cross-functional technical alignment across complex healthcare systems. Adept at implementing infrastructure as code, facilitating interoperability between APIs, and translating business needs into scalable technical solutions. Excited to leverage expertise to drive innovation and efficiency at a forward-thinking company.
 
 ---
 
@@ -25,7 +25,7 @@ Experienced **Principal Software Engineer** with a proven track record in design
 - **DevOps**: Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, Azure DevOps, Jenkins, CircleCI, Travis CI).
 - **Programming Languages**: Python, JavaScript, TypeScript, C#, Go, Rust.
 - **Databases**: DynamoDB, Redis, MongoDB, PostgreSQL, SQL Server, Vertica.
-- **Leadership**: Mentorship, Cross-Functional Collaboration, Agile Methodologies.
+- **Leadership**: Technical Architecture, Cross-Functional Collaboration, Team Alignment & Unblocking, Mentorship, Agile Methodologies, Executive Communication.
 - **Tools & Frameworks**: React, Svelte, Angular, React Native, Ionic, Electron, FastAPI, NestJS, Echo, Fiber, .NET Core.
 
 ---
@@ -34,11 +34,17 @@ Experienced **Principal Software Engineer** with a proven track record in design
 
 ### **Principal Software Engineer** | **HHAeXchange** | **Remote / Hicksville, NY** | **Mar 2024 – Present**
 
-- Architected and delivered **Veritas RCM Workbench**, an AI-assisted platform for revenue cycle management, integrating **FastAPI**, **Svelte/Tailwind**, and **PostgreSQL** with **LLM-based claim triage and denial classification**.
-- Led the **Whirlpool modernization program**, consolidating fragmented regional environments into unified, scalable AWS EKS microservices using **GitOps (FluxCD + Kustomize)** for repo-aligned deployments and zero-downtime releases.
-- Orchestrated **FHIR-based interoperability** between **CareConnect** and **Pavillio APIs**, ensuring ID synchronization, version control, and full auditability across state Medicaid programs.
-- Integrated **AI coding assistants (GitHub Copilot, Cursor, Replit Agents)** into engineering workflows, cutting development turnaround time by 50% and standardizing architectural patterns across teams.
-- Drove infrastructure as code adoption with **Terraform** and **AWS-native observability** (Datadog, CloudWatch, OpenTelemetry), boosting reliability, cost transparency, and team autonomy.
+**2025 Key Achievements:**
+
+- **Project Whirlpool (Data Migration & Pipelines)**: Led architecture and execution decisions for reliable, scalable migration pipelines, consolidating fragmented regional environments into unified AWS EKS microservices. Improved data consistency and operational readiness across the target platform using GitOps (FluxCD + Kustomize) for repository-aligned deployments and zero-downtime releases.
+
+- **Pavilio Platform Expansion**: Drove technical design and implementation support to expand platform capabilities, improving maintainability and ensuring scalability aligned with platform standards. Orchestrated FHIR-based interoperability between CareConnect and Pavilio APIs, ensuring ID synchronization, version control, and full auditability across state Medicaid programs.
+
+- **AI Initiatives & Veritas RCM Workbench**: Advanced AI-driven analytics concepts into actionable platform direction, architecting and developing Veritas (RCM/claims workbench) to convert complex operational and claims signals into clearer, executive-ready insights and decision support. Integrated FastAPI, Svelte/Tailwind, PostgreSQL, and LLM-based claim triage and denial classification.
+
+- **Engineering Excellence**: Integrated AI coding assistants (GitHub Copilot, Cursor, Replit Agents) into engineering workflows, reducing development turnaround time by 50% and standardizing architectural patterns across teams. Championed infrastructure as code adoption with Terraform and AWS-native observability (Datadog, CloudWatch, OpenTelemetry), enhancing reliability, cost transparency, and team autonomy.
+
+- **Cross-Functional Leadership**: Aligned multiple teams and systems on integration behavior and ownership boundaries (IDs/versioning), coordinating across platform, middleware, and product stakeholders. Unblocked teams through design reviews and troubleshooting, maintaining delivery momentum on critical initiatives.
 
 ### **Software Engineering Lead** | **Relatient** | **Nashville, TN** | **Sep 2022 – Feb 2024**
 
