@@ -32,19 +32,23 @@ Dynamic Principal Software Engineer with over 12 years of experience in developi
 
 ## **PROFESSIONAL EXPERIENCE**
 
-### **Principal Software Engineer** | **HHAeXchange** | **Remote / Hicksville, NY** | **Mar 2024 – Present**
+### **Principal Software Engineer** | **HHAeXchange** | **Remote** | **Mar 2024 – Present**
 
-**2025 Key Achievements:**
+**Selected Impact:**
 
-- **Project Whirlpool (Data Migration & Pipelines)**: Led architecture and execution decisions for reliable, scalable migration pipelines, consolidating fragmented regional environments into unified AWS EKS microservices. Improved data consistency and operational readiness across the target platform using GitOps (FluxCD + Kustomize) for repository-aligned deployments and zero-downtime releases.
+- Led architecture for Project Whirlpool migration pipelines, consolidating fragmented regional environments into AWS EKS microservices with GitOps (FluxCD + Kustomize) and zero-downtime release patterns.
 
-- **Pavilio Platform Expansion**: Drove technical design and implementation support to expand platform capabilities, improving maintainability and ensuring scalability aligned with platform standards. Orchestrated FHIR-based interoperability between CareConnect and Pavilio APIs, ensuring ID synchronization, version control, and full auditability across state Medicaid programs.
+- Expanded platform interoperability by orchestrating FHIR-based integrations between CareConnect and Pavilio APIs, improving ID synchronization, version control, and auditability across Medicaid workflows.
 
-- **AI Initiatives & Veritas RCM Workbench**: Advanced AI-driven analytics concepts into actionable platform direction, architecting and developing Veritas (RCM/claims workbench) to convert complex operational and claims signals into clearer, executive-ready insights and decision support. Integrated FastAPI, Svelte/Tailwind, PostgreSQL, and LLM-based claim triage and denial classification.
+- Architected and launched Veritas, an AI-enabled RCM claims workbench (FastAPI, Svelte/Tailwind, PostgreSQL, LLM triage and denial classification) to address urgent revenue cycle priorities.
 
-- **Engineering Excellence**: Integrated AI coding assistants (GitHub Copilot, Cursor, Replit Agents) into engineering workflows, reducing development turnaround time by 50% and standardizing architectural patterns across teams. Championed infrastructure as code adoption with Terraform and AWS-native observability (Datadog, CloudWatch, OpenTelemetry), enhancing reliability, cost transparency, and team autonomy.
+- Designed and delivered agentic AI-powered RPA automations that reduced manual processing and improved operational throughput in business-critical workflows.
 
-- **Cross-Functional Leadership**: Aligned multiple teams and systems on integration behavior and ownership boundaries (IDs/versioning), coordinating across platform, middleware, and product stakeholders. Unblocked teams through design reviews and troubleshooting, maintaining delivery momentum on critical initiatives.
+- Established ADR and design document standards across a 400-engineer organization, and led architecture/design reviews to improve technical quality, governance consistency, and delivery alignment.
+
+- Led migration of hundreds of repositories from multiple source control providers to GitHub, standardizing CI/CD patterns and reducing platform fragmentation risk.
+
+- Integrated AI-assisted engineering workflows (GitHub Copilot, Cursor, Replit Agents), reducing development turnaround time by 50%; leveraged Amazon Bedrock and AWS Transform to accelerate modernization initiatives.
 
 ### **Software Engineering Lead** | **Relatient** | **Nashville, TN** | **Sep 2022 – Feb 2024**
 
